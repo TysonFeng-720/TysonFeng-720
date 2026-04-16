@@ -1,4 +1,4 @@
-# Yong Feng Tang 👋
+# YongFeng Tong 👋
 
 ## 🎓 Education background
 Master of Science in Computer Science and Information Engineering  
