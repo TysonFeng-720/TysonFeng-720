@@ -1,16 +1,49 @@
-## Hi there 👋
+# Yong Feng Tang 👋
 
-<!--
-**TysonFeng-720/TysonFeng-720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education background
+Master of Science in Computer Science and Information Engineering  
+National Chi Nan University, Taiwan
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Professional Summary
+Optimization & computational intelligence researcher specializing in quantum-inspired metaheuristics and multi-objective optimization. 
+Experienced in translating advanced optimization theory into practical algorithmic solutions for financial and decision-making systems.
+
+---
+
+## 🔍 Engineering Focus
+- Optimization Algorithms
+- Quantum-inspired Computing
+- Metaheuristic Design
+- Multi-objective Optimization
+- Financial & Decision Optimization Systems
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages**
+- C++, Python
+
+**Algorithm Development**
+- Metaheuristics
+- Evolutionary Computation
+- Multi-objective Optimization
+
+**Technical Expertise**
+- Algorithm Design
+- Experimental Evaluation
+- Performance Optimization
+
+---
+
+## 🌱 Currently Working On
+- Quantum-inspired optimization algorithm development
+- Multi-objective optimization for financial applications
+- Algorithm performance optimization
+
+---
+
+## 📫 Contact
+Email: tongyongfeng000720@gmail.com
