@@ -1,8 +1,13 @@
 # YongFeng Tong 👋
 
 ## 🎓 Education background
-Master of Science in Computer Science and Information Engineering  
-National Chi Nan University, Taiwan
+1. Master of Science in Computer Science and Information Engineering  
+  National Chi Nan University, Taiwan  
+  Feb 2024 - Feb 2026  
+    - GPA : 4.0/4.0
+
+2. Bachelor of Science in Compuuter Science and Information Engineering  
+Feb 2019 - Feb 2024  
 
 ---
 
